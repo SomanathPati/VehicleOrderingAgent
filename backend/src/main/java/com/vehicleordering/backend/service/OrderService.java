@@ -1,4 +1,4 @@
-package main.java.com.vehicleordering.backend.service;
+package com.vehicleordering.backend.service;
 
 import com.vehicleordering.backend.entity.Order;
 import com.vehicleordering.backend.repository.OrderRepository;

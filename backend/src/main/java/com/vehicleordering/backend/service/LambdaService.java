@@ -1,4 +1,4 @@
-package main.java.com.vehicleordering.backend.service;
+package com.vehicleordering.backend.service;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.slf4j.Logger;

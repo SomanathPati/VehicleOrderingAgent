@@ -1,4 +1,4 @@
-package main.java.com.vehicleordering.backend.config;
+package com.vehicleordering.backend.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

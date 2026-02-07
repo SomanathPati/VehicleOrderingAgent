@@ -1,4 +1,4 @@
-package main.java.com.vehicleordering.backend.controller;
+package com.vehicleordering.backend.controller;
 
 import io.micrometer.core.instrument.Counter;
 import io.micrometer.core.instrument.MeterRegistry;

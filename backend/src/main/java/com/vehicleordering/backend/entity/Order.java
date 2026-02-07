@@ -1,4 +1,4 @@
-package main.java.com.vehicleordering.backend.entity;
+package com.vehicleordering.backend.entity;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Email;

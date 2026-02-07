@@ -1,4 +1,4 @@
-package main.java.com.vehicleordering.backend.repository;
+package com.vehicleordering.backend.repository;
 
 import com.vehicleordering.backend.entity.Order;
 import org.springframework.data.jpa.repository.JpaRepository;

@@ -1,4 +1,4 @@
-package main.java.com.vehicleordering.backend.config;
+package com.vehicleordering.backend.config;
 
 import org.springframework.core.convert.converter.Converter;
 import org.springframework.security.authentication.AbstractAuthenticationToken;
